@@ -33,5 +33,4 @@ re = /hello/i; // i =  case insensitive
 // const newStr = str.replace(re, 'Hi');
 // console.log(newStr);
 
-// Test of Git Stash
-// BLABLABLABLABLABLA
+// hello grosse banane
