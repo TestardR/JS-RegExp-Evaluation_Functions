@@ -32,3 +32,5 @@ re = /hello/i; // i =  case insensitive
 // const str = 'Hello There';
 // const newStr = str.replace(re, 'Hi');
 // console.log(newStr);
+
+// Test
