@@ -33,8 +33,4 @@ re = /hello/i; // i =  case insensitive
 // const newStr = str.replace(re, 'Hi');
 // console.log(newStr);
 
-<<<<<<< Updated upstream
-// new work
-=======
-// HELLO
->>>>>>> Stashed changes
+// Try Try
